@@ -1,0 +1,11 @@
+{
+  "name": "Color Snatcher",
+  "description": "A color Picker For Getting colors from your favourite website",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "/images/picker-16",
+    "32": "/images/picker-32",
+    "48": "/images/picker-48"
+  }
+}
